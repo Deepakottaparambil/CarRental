@@ -1,17 +1,17 @@
 # CarRental
 Build an online car rental platform using Object-Oriented Programming in Python.
 
-car_rental.py
-Classes:
-•	CarRental:
-o	Manages stock
-o	Handles rental and return logic
-o	Calculates rental bill
-•	Customer:
-o	Requests number of cars
-o	Stores rental basis and time
-o	Returns rental information
+**car_rental.py**
+**Classes:**
+•	**CarRental**:
+ Manages stock
+ Handles rental and return logic
+ Calculates rental bill
+•	**Customer**:
+ Requests number of cars
+ Stores rental basis and time
+ Returns rental information
 
 
-main_project.ipynb
+**main_project.ipynb**
  In Jupiter notebook file main() method is created to run the program and interact for user Inputs
